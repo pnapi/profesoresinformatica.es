@@ -1,3 +1,3 @@
 # pnapi.github.io
 
-![logo PNAPI](logo.png)
+![logo PNAPI](pnapi.png)
