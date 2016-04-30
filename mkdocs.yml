@@ -1,0 +1,9 @@
+site_name: PNAPI
+site_url: http://profesoresinformatica.es
+site_description: Plataforma Nacional de Asociaciones de Profesores de Informática
+site_author: PNAPI
+repo_url: https://github.com/pnapi/pnapi.github.io
+remote_branch: master
+theme: readable
+pages:
+  - "Plataforma Nacional de Asociaciones de Profesores de Informática": "index.md"
