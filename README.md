@@ -25,3 +25,19 @@ Las asociaciones del profesores de informática, algunas de las cuales disponen 
 
 # Objetivos
 
+# II Congreso Nacional (2014)
+
+Los días 9 y 10 de mayo de 2014 se celebró en Valencia el II congreso nacional de profesores de informática organizado por la [Asociación de Profesores de Informática de la Comunidad Valenciana (APICV)](http://www.apicv.es/)
+
+Las sedes del congreso fueron:
+
+* 9 de mayo: [Centro Cultural La Beneficencia](http://www.valencia.es/ayuntamiento/infociudad_accesible.nsf/vDocumentosWebListado/8CBD998D7BDFE96BC12572C20023FDA1?OpenDocument&bdOrigen=ayuntamiento)
+* 10 de mayo: [Escola Tècnica Superior d'Enginyeria - Universitat de València (ETSE-UV)](http://www.uv.es/etse/) en el Campus de Burjassot
+
+Los temas principales del congreso fueron:
+
+* El pensamiento computacional
+* La LOMCE y la Informática
+* Novedades y experiencias en Formación Profesional
+ 
+Puedes visitar [la web del congreso](http://congreso.profesoresinformatica.es/)
