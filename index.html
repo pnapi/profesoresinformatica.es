@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="Plataforma Nacional de Asociaciones de Profesores de Informática">
-        <meta name="author" content="PNAPI">
+        <meta name="author" content="José Carlos García">
         <link rel="canonical" href="http://pnapi.github.io/">
         <link rel="shortcut icon" href="./img/favicon.ico">
 
@@ -60,6 +60,11 @@
 
             <!-- Search, Navigation and Repo links -->
             <ul class="nav navbar-nav navbar-right">
+                <li>
+                    <a href="#" data-toggle="modal" data-target="#mkdocs_search_modal">
+                        <i class="fa fa-search"></i> Search
+                    </a>
+                </li>
                 <li class="disabled">
                     <a rel="next" >
                         <i class="fa fa-arrow-left"></i> Previous
@@ -72,7 +77,7 @@
                 </li>
                 
                 <li>
-                    <a href="https://github.com/pnapi/pnapi.github.io">
+                    <a href="https://github.com/pnapi/pnapi.github.io/">
                         
                             <i class="fa fa-github"></i>
                         
@@ -101,6 +106,27 @@
 
 <p><img alt="logo pnapi" src="./pnapi.png" /></p>
 <h1 id="asociaciones">Asociaciones</h1>
+<p>Las asociaciones del profesores de informática, algunas de las cuales disponen de sitio web propio, son:</p>
+<ul>
+<li><a href="http://www.apicv.es/">Asociación de Profesores de Informática de la Comunidad Valenciana (APICV)</a></li>
+<li><a href="http://www.aapri.es/">Asociación Andaluza de Profesores de Informática (AAPRI)</a></li>
+<li><a href="http://www.apiaragon.com/">Asociación de Profesores de Informática de Aragón</a></li>
+<li>Asociación de Profesores de Informática de Extremadura</li>
+<li>Asociación de Profesores de Informática de la Comunidad de Canarias (APICC)</li>
+<li>Asociación de Profesores de Informática de Cantabria (APIC)</li>
+<li><a href="http://www.arpicm.org/">Asociación de Profesores de Informática de Castilla-La Mancha</a></li>
+<li><a href="http://www.apimadrid.org/">Asociación Profesores Informática de Madrid</a></li>
+<li><a href="http://www.asbaprin.org/">Associació de Professors d’Informàtica de les Illes Balears</a></li>
+<li>Asociación Regional Murciana de Profesores de Informática (ARMPI)</li>
+<li>Asociación de Profesores deInformática de Galicia</li>
+<li>Asociación de Profesores de Informática de Asturias</li>
+<li>Asociación de Profesores de Informática de Castilla y León</li>
+<li>Profesores de Informática de Cataluña</li>
+<li>Asociación de Profesores de Informática de Murcia</li>
+<li>Asociación de Profesores de Informática de La Rioja</li>
+<li>Asociación de Profesores de Informática de Navarra</li>
+<li>Asociación de Profesores de Informática de Ceuta y Melilla</li>
+</ul>
 <h1 id="objetivos">Objetivos</h1></div>
         </div>
 
@@ -113,6 +139,33 @@
         <script src="./js/jquery-1.10.2.min.js"></script>
         <script src="./js/bootstrap-3.0.3.min.js"></script>
         <script src="./js/highlight.pack.js"></script>
+        <script>var base_url = '.';</script>
+        <script data-main="./mkdocs/js/search.js" src="./mkdocs/js/require.js"></script>
         <script src="./js/base.js"></script>
+
+        <div class="modal" id="mkdocs_search_modal" tabindex="-1" role="dialog" aria-labelledby="Search Modal" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+                        <h4 class="modal-title" id="exampleModalLabel">Search</h4>
+                    </div>
+                    <div class="modal-body">
+                        <p>
+                            From here you can search these documents. Enter
+                            your search terms below.
+                        </p>
+                        <form role="form">
+                            <div class="form-group">
+                                <input type="text" class="form-control" placeholder="Search..." id="mkdocs-search-query">
+                            </div>
+                        </form>
+                        <div id="mkdocs-search-results"></div>
+                    </div>
+                    <div class="modal-footer">
+                    </div>
+                </div>
+            </div>
+        </div>
     </body>
 </html>
