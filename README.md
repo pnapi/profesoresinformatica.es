@@ -23,8 +23,6 @@ Las asociaciones del profesores de informática, algunas de las cuales disponen 
 * Asociación de Profesores de Informática de Navarra
 * Asociación de Profesores de Informática de Ceuta y Melilla
 
-# Objetivos
-
 # II Congreso Nacional (2014)
 
 Los días 9 y 10 de mayo de 2014 se celebró en Valencia el II congreso nacional de profesores de informática organizado por la [Asociación de Profesores de Informática de la Comunidad Valenciana (APICV)](http://www.apicv.es/)
