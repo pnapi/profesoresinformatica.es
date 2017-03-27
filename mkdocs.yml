@@ -2,7 +2,7 @@ site_name: PNAPI
 site_url: http://pnapi.github.io/
 site_description: Plataforma Nacional de Asociaciones de Profesores de Informática
 site_author: José Carlos García
-repo_url: https://github.com/pnapi/pnapi.github.io/
+repo_url: https://github.com/pnapi/profesoresinformatica.es/
 remote_branch: master
 theme: cerulean
 pages:
