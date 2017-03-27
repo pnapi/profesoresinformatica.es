@@ -23,6 +23,12 @@ Las asociaciones del profesores de informática, algunas de las cuales disponen 
 * Asociación de Profesores de Informática de Navarra
 * Asociación de Profesores de Informática de Ceuta y Melilla
 
+# I Congreso Nacional (2013)
+
+Desde la Asociación de Profesores de Informática de Madrid, ApiMadrid, en nombre de la Plataforma Nacional de Asociaciones de Profesores de Informática de España, PNAPI, se celebró, el pasado día 13 de abril de 2013 el I Congreso Nacional en Madrid.
+
+Puedes visitar [la web del I Congreso](http://congreso.profesoresinformatica.es/2013/)
+
 # II Congreso Nacional (2014)
 
 Los días 9 y 10 de mayo de 2014 se celebró en Valencia el II congreso nacional de profesores de informática organizado por la [Asociación de Profesores de Informática de la Comunidad Valenciana (APICV)](http://www.apicv.es/)
@@ -38,4 +44,4 @@ Los temas principales del congreso fueron:
 * La LOMCE y la Informática
 * Novedades y experiencias en Formación Profesional
  
-Puedes visitar [la web del congreso](http://congreso.profesoresinformatica.es/)
+Puedes visitar [la web del II Congreso](http://congreso.profesoresinformatica.es/2014/)
